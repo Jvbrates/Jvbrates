@@ -3,36 +3,18 @@
 - 🌱 I’m currently studying Computer Science at the Federal University of Santa Maria (UFSM)
 - 💻 I'm a Computer Technician graduated from Instituto Federal Farroupilha (IFFar)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvbrates&show_icons=true&theme=tokyonight)
+💻 **Operating Systems and Computer Architecture Enthusiast**  
+Passionate about **Operating Systems**, **Computer Networks**, and **Computer Architecture**, with a focus on understanding and exploring how systems work at a low level.  
 
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="Jvbrates-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Jvbrates-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Jvbrates-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jvbrates-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jvbrates-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Jvbrates-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jvbrates-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
-  
-  
-  ##
-  
-  ### Olá, eu sou João Vitor Belmonte Rates
+👨‍💻 **Technologies and Tools**  
+- **C**: Preferred for its close-to-hardware control and efficiency.  
+- **Python** and **Java**: Used for their practicality and versatility in developing solutions.
+- 
+  Currently solving **Reverse Engineering Challenges**: [Challenge Website](https://challenges.re/) |----------|[Excalidraw](https://excalidraw.com/#json=VYMemsPC3gzV-oMZPdM_s,IgevbK3-dnv1oU6XG9msoQ)
 
-- 🌱 Atualmente estou cursando Ciência da Computação na Universidade Federal de Santa Maria (UFSM)
-- 💻 Sou formado Técnico em InformInstituto Federal Farroupilha (IFFar)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvbrates&show_icons=true&theme=tokyonight)
+🔍 Always striving to deepen my understanding of low-level systems and improve my skills in solving complex technical problems.  
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jvbrates-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jvbrates-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jvbrates-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Jvbrates-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jvbrates-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
-  
+
 <!--
 **Jvbrates/Jvbrates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
