@@ -9,7 +9,7 @@ Passionate about **Operating Systems**, **Computer Networks**, and **Computer Ar
 👨‍💻 **Technologies and Tools**  
 - **C**: Preferred for its close-to-hardware control and efficiency.  
 - **Python** and **Java**: Used for their practicality and versatility in developing solutions.
-- 
+- **Another tehcnologies that I use(non-exhaustive list)**: Docker, Git, Linux, Bash, C++, HTML, CSS, JavaScript, SQL, Django, Spring, Hibernate.
   Currently solving **Reverse Engineering Challenges**: [Challenge Website](https://challenges.re/) |----------|[Excalidraw](https://excalidraw.com/#json=VYMemsPC3gzV-oMZPdM_s,IgevbK3-dnv1oU6XG9msoQ)
 
 🔍 Always striving to deepen my understanding of low-level systems and improve my skills in solving complex technical problems.  
